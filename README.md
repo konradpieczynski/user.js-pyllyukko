@@ -274,6 +274,7 @@ Disable Firefox integrated metrics/reporting/experiments, disable potentially in
 * Disable querying Google Application Reputation database for downloaded binary files [ [1](https://www.mozilla.org/en-US/firefox/39.0/releasenotes/) [2](https://wiki.mozilla.org/Security/Application_Reputation) ]
 * Disable Pocket [ [1](https://support.mozilla.org/en-US/kb/save-web-pages-later-pocket-firefox) [2](https://github.com/pyllyukko/user.js/issues/143) ]
 * Disable "Recommended by Pocket" in Firefox Quantum
+* Enable Global Privacy Control (GPC) (Firefox >= 120) [ [1](https://support.mozilla.org/1/firefox/126.0/Linux/en-US/global-privacy-control) [2](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Sec-GPC) [3](https://globalprivacycontrol.org/) ]
 
 ### Automatic connections
 
@@ -609,7 +610,6 @@ For more information, see [CONTRIBUTING](https://github.com/pyllyukko/user.js/bl
 * **[User.js comparator](https://jm42.github.io/compare-user.js/)**
 * **[CVEs for Firefox - mitre.org](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=firefox)**
 * [CVEs for Firefox - cvedetails.com](https://www.cvedetails.com/vulnerability-list/vendor_id-452/product_id-3264/Mozilla-Firefox.html)
-* [ghacksuserjs/ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js): a similar project and great source of information, with different goals and methodology
 * [About:config entries - MozillaZine](http://kb.mozillazine.org/About:config_entries)
 * [Security and privacy-related preferences - MozillaZine](http://kb.mozillazine.org/Category:Security_and_privacy-related_preferences)
 * [Diff between various Firefox .js configurations in upcoming releases](https://cat-in-136.github.io/) **([RSS](https://cat-in-136.github.io/feed.xml))**
